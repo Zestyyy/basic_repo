@@ -1,0 +1,8 @@
+1) Created a repo on github called basic_repo
+2) used mkdir to create local repo
+3) git init to initialize local repo
+4) touch to make sample.html file
+5) git add . to add to staging area
+6) git commit -m "note" to commit changes to local repo
+7) created path from local repo to github repo using git push --set-upstream <link> master
+8) made more changes, add, commit, and pushed to master repo
